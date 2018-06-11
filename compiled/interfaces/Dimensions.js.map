@@ -1,0 +1,1 @@
+{"version":3,"file":"Dimensions.js","sourceRoot":"","sources":["../../src/interfaces/Dimensions.tsx"],"names":[],"mappings":"AAAA,OAAO,EAAE,UAAU,EAAE,MAAM,cAAc,CAAC;AAE1C,MAAM,CAAC,OAAO;IAGV;QACI,IAAI,CAAC,KAAK,GAAG,UAAU,CAAC,GAAG,CAAC,QAAQ,CAAC,CAAC,KAAK,CAAC;IAChD,CAAC;CACJ"}

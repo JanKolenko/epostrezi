@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "es2015",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "outDir": "compiled",
+    "rootDir": "src",
+    "types": ["react", "react-native", "jest"],
+    "experimentalDecorators": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "allowJs": true,
+    "emitDecoratorMetadata": true,
+    "sourceMap": true,
+    "noImplicitAny": false,
+    "isolatedModules": false,
+    "listFiles": true
+  },
+  "include": ["src/**/*"],
+  "exclude": [
+	  "android",
+	  "ios",
+	  "compiled",
+	  "node_modules"
+   ]
+}
